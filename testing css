@@ -1,0 +1,25 @@
+h1 {
+    font-family: Harrington;
+}
+form {
+    display: inline-block;
+}
+#addbutton {
+    display: inline-block;
+    height:20px;
+    width:70px;
+    background-color: #00ff00;
+    font-family: Harrington;
+    font-weight:bold;
+    color:#000000;
+    border-radius: 5px;
+    text-align:center;
+    margin-top:2px;
+}
+.list {
+    font-family: Garamond;
+    color: #003300;
+}
+a:hover {
+  font-weight: bold;
+}
