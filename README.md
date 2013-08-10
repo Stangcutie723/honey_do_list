@@ -22,8 +22,14 @@ The System Dependencies include:<br>
   uglifier (>= 1.3.0)
 
 Main Page:<br>
+<a href="http://s20.photobucket.com/user/krystlephoto/media/Github/30bda0f7-e375-4204-8c3a-3f31a7522ec5_zps7dff994f.jpg.html" target="_blank"><img src="http://i20.photobucket.com/albums/b211/krystlephoto/Github/30bda0f7-e375-4204-8c3a-3f31a7522ec5_zps7dff994f.jpg" border="0" alt=" photo 30bda0f7-e375-4204-8c3a-3f31a7522ec5_zps7dff994f.jpg"/></a><br>
+
 
 Adding a new task:<br>
+<a href="http://s20.photobucket.com/user/krystlephoto/media/Github/20901300-f8d7-4be8-af4d-7d56c8839a7d_zps7d960666.jpg.html" target="_blank"><img src="http://i20.photobucket.com/albums/b211/krystlephoto/Github/20901300-f8d7-4be8-af4d-7d56c8839a7d_zps7d960666.jpg" border="0" alt=" photo 20901300-f8d7-4be8-af4d-7d56c8839a7d_zps7d960666.jpg"/></a><br>
+
+
+
 
 After adding a new task:<br>
 <a href="http://s20.photobucket.com/user/krystlephoto/media/Github/ec8d254c-2048-4634-9557-302c062277ea_zpseb28d282.jpg.html" target="_blank"><img src="http://i20.photobucket.com/albums/b211/krystlephoto/Github/ec8d254c-2048-4634-9557-302c062277ea_zpseb28d282.jpg" border="0" alt=" photo ec8d254c-2048-4634-9557-302c062277ea_zpseb28d282.jpg"/></a><br>
