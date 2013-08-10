@@ -26,8 +26,7 @@ Main Page:<br>
 
 
 Adding a new task:<br>
-<a href="http://s20.photobucket.com/user/krystlephoto/media/Github/20901300-f8d7-4be8-af4d-7d56c8839a7d_zps7d960666.jpg.html" target="_blank"><img src="http://i20.photobucket.com/albums/b211/krystlephoto/Github/20901300-f8d7-4be8-af4d-7d56c8839a7d_zps7d960666.jpg" border="0" alt=" photo 20901300-f8d7-4be8-af4d-7d56c8839a7d_zps7d960666.jpg"/></a><br>
-
+<a href="http://s20.photobucket.com/user/krystlephoto/media/Github/f2daebc7-6a8b-407d-bb5d-a7003f3531e3_zps1b7d1d78.jpg.html" target="_blank"><img src="http://i20.photobucket.com/albums/b211/krystlephoto/Github/f2daebc7-6a8b-407d-bb5d-a7003f3531e3_zps1b7d1d78.jpg" border="0" alt=" photo f2daebc7-6a8b-407d-bb5d-a7003f3531e3_zps1b7d1d78.jpg"/></a><br>
 
 
 
