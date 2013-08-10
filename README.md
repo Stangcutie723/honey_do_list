@@ -1,25 +1,25 @@
-ToDo
-====
 
 Honey Do List<br>
+===
+
 This was meant to be a simple add and remove application in which I covered in the basic 
-functions of the list. A user can add tasks to the list and remove them upon
-completion. Mostly I was trying my hand in more javascript and CSS design and focused less
+functions of the list. A user can add new tasks, edit them, delete them and see their status whether their
+status is true for false. Mostly I was trying my hand in more javascript and CSS design and focused less
 on the functionality. I will be updating this as time goes on.
 
 Starting I had the 3 basic files; HTML, CSS, Javascript. Then I implemented it into a core
 language, Ruby as the platform.
 
 The System Dependencies include:<br>
-  coffee-rails (~> 4.0.0)
-  jbuilder (~> 1.2)
-  jquery-rails
-  rails (= 4.0.0)
-  sass-rails (~> 4.0.0)
-  sdoc
-  sqlite3
-  turbolinks
-  uglifier (>= 1.3.0)
+  coffee-rails (~> 4.0.0)<br>
+  jbuilder (~> 1.2)<br>
+  jquery-rails<br>
+  rails (= 4.0.0)<br>
+  sass-rails (~> 4.0.0)<br>
+  sdoc<br>
+  sqlite3<br>
+  turbolinks<br>
+  uglifier (>= 1.3.0)<br>
 
 Main Page:<br>
 <a href="http://s20.photobucket.com/user/krystlephoto/media/Github/30bda0f7-e375-4204-8c3a-3f31a7522ec5_zps7dff994f.jpg.html" target="_blank"><img src="http://i20.photobucket.com/albums/b211/krystlephoto/Github/30bda0f7-e375-4204-8c3a-3f31a7522ec5_zps7dff994f.jpg" border="0" alt=" photo 30bda0f7-e375-4204-8c3a-3f31a7522ec5_zps7dff994f.jpg"/></a><br>
