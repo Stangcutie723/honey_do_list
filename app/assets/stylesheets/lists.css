@@ -1,0 +1,52 @@
+// Place all the styles related to the lists controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  border: 10px solid #000000;
+  border-radius: 80px;
+  background-color: #FFFFFF;
+  text-align: center;
+  padding: 25px 25px 25px 25px ;
+  margin: 25px 25px 25px 25px ;
+  float: center;
+}
+
+#header1 {
+  border-radius: 80px;
+  border: 5px solid #000000;
+  background-color: #FFF333;
+  font-size: 40px;
+}
+
+#header2 {
+  background-color: #FFF333;
+  border: 5px solid #000000;
+  font-size: 25px;
+
+}
+
+table {
+  border: 5px dashed #000000;
+  background-color: #FFF333;
+  font-size: 20px;
+  padding: 25px 25px 25px 25px;
+  margin: 25px 25px 25px 25px;
+}
+
+a:link {
+  color: #000000;
+  font-size: 25px;
+}
+
+a:visited {
+  font-weight: bold;
+  color: #000000;
+  font-size: 25px;
+}
+a:hover {
+  background-color: #FFF333;
+  font-size: 45px;
+  border: 5px solid #000000;
+  border-radius: 100px;
+}

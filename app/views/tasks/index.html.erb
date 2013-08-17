@@ -1,27 +1,41 @@
-<div id="list">
-<h1>Honey Do List</h1>
-<h3>Thank you for doing these chores! I really appreciate the help</h3>
+  <div id= "header1">
+    <h1>Honey Do List</h1>
+  </div>
+<br>
+  <div id="header2">
+    <h3>Thank you for doing these chores! I really appreciate the help!</h3>
+  </div>
 
-<div class="main">
+<div class="table">
   <table>
     <thead>
       <tr>
-          <th>Name</th>
-          <th>Status</th>
-          <th></th>
-          <th></th>
-          <th></th>
+          <th> Chore Titles </th>
+          <th> ~*.*~ </th>
+          <th> Status of Chores </th>
+          <th> ~*.*~ </th>
+          <th> ~*.*~ Options ~*.*~ </th>
+          <th> ~*.*~ </th>
       </tr>
     </thead>
-
     <tbody>
       <% @tasks.each do |task| %>
       <tr>
+        <td>~*.*~*.*~*.*~*.*~</td>
+        <td>~*.*~</td>
+        <td>~*.*~*.*~*.*~*.*~</td>
+        <td>~*.*~*.*~*.*~*.*~</td>
+        <td>~*.*~*.*~*.*~*.*~</td>
+        <td>~*.*~*.*~*.*~*.*~</td>
+      </tr>
+
+      <tr>
         <td><%= task.name %></td>
+        <td></td>
         <td><%= task.status %></td>
-        <td><%= link_to 'Show', task %></td>
-        <td><%= link_to 'Edit', edit_task_path(task) %></td>
-        <td><%= link_to 'Delete', task, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td>|<%= link_to 'Show', task %>|</td>
+        <td>|<%= link_to 'Edit', edit_task_path(task) %>|</td>
+        <td>|<%= link_to 'Delete', task, method: :delete, data: { confirm: 'Are you sure?' } %>|</td>
       </tr>
       <% end %>
     </tbody>
@@ -29,6 +43,6 @@
 </div>
 
 <br>
+|<%= link_to 'New Task', new_task_path %>|
+<br>
 
-<%= link_to 'New Task', new_task_path %>
-</div>
