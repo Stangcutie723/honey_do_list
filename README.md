@@ -1,4 +1,3 @@
-
 Honey Do List<br>
 ===
 
@@ -20,15 +19,23 @@ The System Dependencies include:<br>
   sqlite3<br>
   turbolinks<br>
   uglifier (>= 1.3.0)<br>
+<br>
 
 Main Page:<br>
-<a href="http://s20.photobucket.com/user/krystlephoto/media/Github/30bda0f7-e375-4204-8c3a-3f31a7522ec5_zps7dff994f.jpg.html" target="_blank"><img src="http://i20.photobucket.com/albums/b211/krystlephoto/Github/30bda0f7-e375-4204-8c3a-3f31a7522ec5_zps7dff994f.jpg" border="0" alt=" photo 30bda0f7-e375-4204-8c3a-3f31a7522ec5_zps7dff994f.jpg"/></a><br>
+<img src="http://i20.photobucket.com/albums/b211/krystlephoto/0f00a3c9-907e-4396-a14c-74a00991b4c2_zpse499d398.jpg" border="0" alt=" photo 0f00a3c9-907e-4396-a14c-74a00991b4c2_zpse499d398.jpg"/></a><br>
+<br>
 
 
-Adding a new task:<br>
-<a href="http://s20.photobucket.com/user/krystlephoto/media/Github/f2daebc7-6a8b-407d-bb5d-a7003f3531e3_zps1b7d1d78.jpg.html" target="_blank"><img src="http://i20.photobucket.com/albums/b211/krystlephoto/Github/f2daebc7-6a8b-407d-bb5d-a7003f3531e3_zps1b7d1d78.jpg" border="0" alt=" photo f2daebc7-6a8b-407d-bb5d-a7003f3531e3_zps1b7d1d78.jpg"/></a><br>
+Creating a New Task:<br>
+<img src="http://i20.photobucket.com/albums/b211/krystlephoto/35e01e33-5afc-4e95-b40d-6ce9e5620ab8_zps6e8fbbd3.jpg" border="0" alt=" photo 35e01e33-5afc-4e95-b40d-6ce9e5620ab8_zps6e8fbbd3.jpg"/></a><br>
+<br>
 
 
+New Task Success:<br>
+<img src="http://i20.photobucket.com/albums/b211/krystlephoto/5de7b36c-4873-4a34-8ec7-f867e18d94ab_zps5256e329.jpg" border="0" alt=" photo 5de7b36c-4873-4a34-8ec7-f867e18d94ab_zps5256e329.jpg"/></a><br>
+<br>
 
-After adding a new task:<br>
-<a href="http://s20.photobucket.com/user/krystlephoto/media/Github/ec8d254c-2048-4634-9557-302c062277ea_zpseb28d282.jpg.html" target="_blank"><img src="http://i20.photobucket.com/albums/b211/krystlephoto/Github/ec8d254c-2048-4634-9557-302c062277ea_zpseb28d282.jpg" border="0" alt=" photo ec8d254c-2048-4634-9557-302c062277ea_zpseb28d282.jpg"/></a><br>
+
+Delete Option:<br>
+<img src="http://i20.photobucket.com/albums/b211/krystlephoto/Github/12e70d74-389e-4cc1-949f-3cbb389b9c7b_zpsfa5a246d.jpg" border="0" alt=" photo 12e70d74-389e-4cc1-949f-3cbb389b9c7b_zpsfa5a246d.jpg"/></a><br>
+<br>
